@@ -2,9 +2,11 @@ Digital Business Card Management Platform
 Welcome to our digital business card management platform! This README.md file provides an overview of the project, its functionality, and how to interact with it.
 
 Project Overview
+
 Our website serves as a convenient platform where users can access and manage digital business cards in one place. Whether you're a business owner or a regular user, our platform offers the tools you need to organize and discover business contacts effortlessly.
 
 Functionality
+
 Business Card Creation: Business users have the ability to create their own digital business cards with comprehensive details.
 Favorites Management: Users can add business cards to their favorites list, making it easier to access and connect with preferred businesses.
 Viewing Business Cards: Regular users can view business cards added by others, enabling them to discover new businesses and services.
@@ -14,6 +16,7 @@ React: The project is built using React, a popular JavaScript library for buildi
 Material-UI (MUI): We utilize Material-UI, a React UI framework, for designing and implementing a modern and responsive user interface.
 
 Getting Started
+
 To get started with our platform, follow these steps:
 
 Clone the Repository: Clone the project repository from GitHub.
